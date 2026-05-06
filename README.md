@@ -28,10 +28,14 @@ A Java Swing + MySQL based ATM Banking System project.
 4. Run Login.java
 
 ## Screenshots
-![ATM-Home](Screenshots/atm-home.png)
-![Transactions](Screenshots/Transactions.png‎)
-![Balance](Screenshots/Balance.png‎)
-![Deposit](Screenshots/Deposit.png)
+![ATM Home](screenshots/atm-home.png)
+
+![Transactions](screenshots/Transactions.png)
+
+![Balance](screenshots/Balance.png)
+
+![Deposit](screenshots/Deposit.png)
+
 
 ## Author
 Sneha Bharti
